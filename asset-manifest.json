@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Despejes/static/css/main.e525dfed.css",
-    "main.js": "/Despejes/static/js/main.9ec7e033.js",
+    "main.css": "/Despejes/static/css/main.96ffd6bf.css",
+    "main.js": "/Despejes/static/js/main.c1ea10eb.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/Despejes/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/Despejes/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "/Despejes/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
@@ -63,11 +63,11 @@
     "static/media/KaTeX_Size3-Regular.woff": "/Despejes/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/Despejes/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/Despejes/index.html",
-    "main.e525dfed.css.map": "/Despejes/static/css/main.e525dfed.css.map",
-    "main.9ec7e033.js.map": "/Despejes/static/js/main.9ec7e033.js.map"
+    "main.96ffd6bf.css.map": "/Despejes/static/css/main.96ffd6bf.css.map",
+    "main.c1ea10eb.js.map": "/Despejes/static/js/main.c1ea10eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.e525dfed.css",
-    "static/js/main.9ec7e033.js"
+    "static/css/main.96ffd6bf.css",
+    "static/js/main.c1ea10eb.js"
   ]
 }
